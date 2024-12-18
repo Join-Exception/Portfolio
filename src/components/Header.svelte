@@ -13,8 +13,7 @@
 			: ' border-transparent bg-transparent py-6')}
 >
 <title>JoinException's Portfolio</title>
-	<div class="flex w-full items-center justify-between">
-		<!-- Left: Name -->
+	<div class="flex w-full items-center justify-between mx-20">
 		<a href="/" class="flex-shrink-0 sm:ml-10">
 			<h1>
 				<b
@@ -25,18 +24,12 @@
 			</h1>
 		</a>
 
-		<!-- Center: Tabs -->
 		<div class="hidden items-center gap-6 text-center text-xl sm:flex">
 			{#each tabs as tab}
-				<a href={tab.link} class="font-montserrat text-white duration-200 hover:text-gray-300">
+				<a href={tab.link} class="font-montserrat text-white duration-200 hover:text-gray-300 mx-5">
 					<p>{tab.name}</p>
 				</a>
 			{/each}
-		</div>
-
-		<!-- Right: Button -->
-		<div class="flex-shrink-0">
-			
 		</div>
 	</div>
 </header>

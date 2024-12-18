@@ -33,6 +33,6 @@
 	<slot />
 	<Footer />
 </div>
-<MusicPlayer />
+<!--<MusicPlayer />-->
 
 <svelte:window bind:scrollY={y} bind:innerHeight bind:innerWidth />

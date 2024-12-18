@@ -1,5 +1,5 @@
 <footer
-	class="sm:py-18 flex flex-col items-center justify-center gap-2 border-t border-solid border-emerald-950 bg-black py-10 sm:gap-2"
+	class="sm:py-18 flex flex-col items-center justify-center gap-2 border-t border-solid border-emerald-950 bg-[#080808] py-10 sm:gap-2"
 >
 	<div class="border-b border-solid border-emerald-950">
 		<p class="bg-black px-4 py-2 font-montserrat font-medium text-white">My Socials &darr;</p>

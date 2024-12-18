@@ -29,7 +29,7 @@
 </script>
 
 <div
-	class="music-player bottom-[10px] flex h-[160px] w-[200px] flex-col items-center justify-between rounded-xl border border-solid border-emerald-950 bg-black text-white"
+	class="music-player bottom-[10px] flex h-[160px] w-[200px] flex-col items-center justify-between rounded-xl border border-solid border-emerald-950 bg-[#080808] text-white"
 >
 	<p class="mt-5 font-montserrat">{song}</p>
 	<div class="top-50 flex items-center justify-center">
