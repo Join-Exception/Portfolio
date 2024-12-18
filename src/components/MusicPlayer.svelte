@@ -31,7 +31,7 @@
 <div
 	class="music-player bottom-[10px] flex h-[160px] w-[200px] flex-col items-center justify-between rounded-xl border border-solid border-emerald-950 bg-black text-white"
 >
-	<p class="mt-5">{song}</p>
+	<p class="mt-5 font-montserrat">{song}</p>
 	<div class="top-50 flex items-center justify-center">
 		<button
 			class="h-12 w-12 rounded-full bg-blue-500 focus:outline-none"
@@ -43,7 +43,7 @@
 	</div>
 
 	<div class="mb-2 w-full px-2 text-center">
-		<label for="volume-slider" class="text-sm">Volume</label>
+		<label for="volume-slider" class="font-montserrat text-sm">Volume</label>
 		<input
 			id="volume-slider"
 			type="range"

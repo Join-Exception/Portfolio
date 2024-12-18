@@ -3,7 +3,7 @@
 	import Header from '../components/Header.svelte';
 	import MusicPlayer from '../components/MusicPlayer.svelte';
 	import '../app.css';
-
+	import '@fontsource-variable/montserrat';
 	let y;
 	let innerWidth = 0;
 	let innerHeight = 0;
@@ -14,6 +14,7 @@
 </script>
 
 <!-- Render the regular page layout -->
+<Header {y} {innerHeight} />
 <div
 	class="container relative mx-auto flex min-h-screen w-full max-w-[1400px] flex-col text-sm sm:text-base"
 >
@@ -28,7 +29,7 @@
 			<i class="fa-solid fa-arrow-up" />
 		</button>
 	</div>
-	<Header {y} {innerHeight} />
+	<!--<Header {y} {innerHeight} /> -->
 	<slot />
 	<Footer />
 </div>
