@@ -32,11 +32,11 @@
 					JoinException
 				</span>
 			</h2>
-			<button
+			<a href="https://discord.com/users/713798379053908049"><button
 				class="relative duration-500 font-bold mt-6 bg-[#1B1B1C] overflow-hidden rounded-2xl px-6 py-3 font-montserrat text-base text-white shadow-xl shadow-emerald-600/35 sm:text-md md:text-lg hover:bg-[#151516] hover:shadow-emerald-400/40"
 			>
 				<h4>Contact me ✌️</h4>
-			</button>
+			</button></a>
 		</div>
 	</section>
 
@@ -96,7 +96,7 @@
 					/>
 				</h3>
 				<p class="font-montserrat text-sm text-gray-500">
-					I am a teenager getting into new technologies & I am <br />
+					I am a teenager getting into new technologies & I am <br> looking forward to new projects <br />
 				</p>
 			</div>
 		</div>
