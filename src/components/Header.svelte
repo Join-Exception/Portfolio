@@ -15,13 +15,14 @@
 <title>JoinException's Portfolio</title>
 	<div class="flex w-full items-center justify-between mx-20">
 		<a href="/" class="flex-shrink-0 sm:ml-10">
-			<h1>
+			<h1 class="flex justify-center sm:justify-start">
 				<b
-					class="font-montserrat text-2xl font-bold text-white duration-200 hover:inline-block hover:bg-gradient-to-r hover:from-emerald-500 hover:to-purple-500 hover:bg-clip-text hover:text-transparent"
+				  class="font-montserrat text-2xl font-bold text-white duration-200 hover:inline-block hover:bg-gradient-to-r hover:from-emerald-500 hover:to-purple-500 hover:bg-clip-text hover:text-transparent"
 				>
-				JoinException
+				  JoinException
 				</b>
-			</h1>
+			  </h1>
+			  
 		</a>
 
 		<div class="hidden items-center gap-6 text-center text-xl sm:flex">

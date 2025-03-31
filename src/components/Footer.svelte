@@ -9,7 +9,7 @@
 			<a href="https://github.com/Join-Exception">
 				<i class="fa-brands fa-github" />
 			</a>
-			<a href="https://discord.gg/mYA7RMAcuP">
+			<a href="https://discord.com/users/713798379053908049">
 				<i class="fa-brands fa-discord" />
 			</a>
 			<a href="https://www.youtube.com/@joinexception">
