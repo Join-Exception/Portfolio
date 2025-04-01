@@ -3,7 +3,6 @@
 	import Header from '../components/Header.svelte';
 	import '../app.css';
 	import '@fontsource-variable/montserrat';
-	import { injectAnalytics } from '@vercel/analytics/sveltekit'
 	let y;
 	let innerWidth = 0;
 	let innerHeight = 0;
@@ -31,7 +30,6 @@
 	</div>
 	<!--<Header {y} {innerHeight} /> -->
 	<slot />
- 	<Analytics />
 	<Footer />
 </div>
 <!--<MusicPlayer />-->
