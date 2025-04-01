@@ -31,6 +31,7 @@
 	</div>
 	<!--<Header {y} {innerHeight} /> -->
 	<slot />
+ 	<Analytics />
 	<Footer />
 </div>
 <!--<MusicPlayer />-->
